@@ -12,7 +12,7 @@ This project is a frontend web application built using **React (Vite)** and **Ty
 
 ```bash
 git clone https://github.com/SiddhantMunjamkar/-Recepto_task_frontend.git
-cd your-repo-name
+cd Recepto_task_frontend
 ```
 
 2. Install dependencies:
