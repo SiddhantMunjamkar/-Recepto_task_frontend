@@ -11,7 +11,7 @@ This project is a frontend web application built using **React (Vite)** and **Ty
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SiddhantMunjamkar/-Recepto_task_frontend.git
+git clone https://github.com/SiddhantMunjamkar/Recepto_task_frontend.git
 cd Recepto_task_frontend
 ```
 
